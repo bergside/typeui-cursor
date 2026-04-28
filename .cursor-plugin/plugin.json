@@ -1,0 +1,30 @@
+{
+  "name": "typeui",
+  "displayName": "TypeUI",
+  "version": "0.1.0",
+  "description": "TypeUI plugin for Cursor. Pull curated design SKILL.md files and generate/update local design specs with TypeUI. Browse curated design skills here: https://www.typeui.sh/design-skills",
+  "author": {
+    "name": "Bergside"
+  },
+  "publisher": "Bergside",
+  "homepage": "https://www.typeui.sh",
+  "repository": "https://github.com/bergside/typeui-cursor",
+  "license": "MIT",
+  "logo": "logo.svg",
+  "keywords": [
+    "typeui",
+    "cursor",
+    "design-system",
+    "skills",
+    "ui",
+    "ux"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "skills",
+    "design",
+    "automation"
+  ],
+  "commands": "./commands/*.md",
+  "skills": "./skills/**/SKILL.md"
+}
