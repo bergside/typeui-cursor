@@ -2,7 +2,7 @@
   "name": "typeui",
   "displayName": "TypeUI",
   "version": "0.1.0",
-  "description": "TypeUI plugin for Cursor. Pull curated design SKILL.md files and generate/update local design specs with TypeUI. Browse curated design skills here: https://www.typeui.sh/design-skills",
+  "description": "Download and manage curated design skills from the TypeUI registry and build websites with predefined design system specifications.",
   "author": {
     "name": "Bergside"
   },
